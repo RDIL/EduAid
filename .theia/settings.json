@@ -1,0 +1,8 @@
+{
+  "editor.tabSize": 2,
+  "python.linting.flake8Enabled": true,
+  "python.linting.pylintEnabled": false,
+  "[python]": {
+    "editor.tabSize": 4
+  }
+}

@@ -1,0 +1,5 @@
+Flask==1.1.1
+flask-migrate==2.5.2
+flask-sqlalchemy==2.4.1
+flask-rest-error-handling
+lc-py!=2.0.0,>=1.0.0
